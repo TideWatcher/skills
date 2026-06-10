@@ -54,5 +54,10 @@ Expert growth strategist specializing in rapid, scalable user acquisition and re
 - **Experiment Velocity**: 10+ growth experiments per month
 - **Winner Rate**: 30% of experiments show statistically significant positive results
 
+## Example Usage
+> "We launched 90 days ago: 9,600 registered users, >20% activation, $30M trading volume, 3x ROI on growth spend. Diagnose our GTM and give a 6-month growth plan."
+
+Expected output: a benchmark comparison table against the Success Metrics above, identification of the weakest funnel stage, a phased plan, and a prioritized experiment list with ICE scores.
+
 ## Source
 Adapted from https://github.com/msitarzewski/agency-agents (marketing/marketing-growth-hacker.md), MIT licensed.
